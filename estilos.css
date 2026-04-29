@@ -9,7 +9,7 @@
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fuente moderna y legible */
       height: 100vh; /* Altura completa de la ventana */
-      background: url('img/img1.jpg') 
+      background: url('imágenes.jpg') 
         no-repeat center center fixed; /* Imagen de fondo centrada y fija */
       background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
       position: relative; /* Necesario para colocar la capa transparente encima */
